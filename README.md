@@ -1,6 +1,4 @@
 # lec6180 test code 
-'''
-int a 
-'''
+[nihao](https://www.jianshu.com/p/20e82ddb37cb)
 
 ## hao
