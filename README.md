@@ -2,7 +2,6 @@
 
 
 [nihao](https://www.jianshu.com/p/20e82ddb37cb)
-[目录]（目录）
 ## hao
   * 你好
   * 你好
@@ -13,5 +12,5 @@
     int b = 9;
 </code></pre>
 
->目录
+[TOC]目录
 
