@@ -6,5 +6,7 @@
 * 你好
 * 你好
 
-<pre><code>这是一个代码区块。
+<pre><code>
+int a = 7;
+int b = 9;
 </code></pre>
