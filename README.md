@@ -1,4 +1,4 @@
-# lec6180 test code 
+@[toc]# lec6180 test code 
 
 
 [nihao](https://www.jianshu.com/p/20e82ddb37cb)
@@ -12,5 +12,4 @@
     int b = 9;
 </code></pre>
 
-[TOC]目录
 
